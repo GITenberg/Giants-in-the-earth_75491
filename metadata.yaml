@@ -1,0 +1,48 @@
+_repo: Giants-in-the-earth_75491
+_version: 0.0.1
+alternative_title: I de dage. English
+contributor:
+  translator:
+    agent_name: Colcord, Lincoln
+    alias: Colcord, Lincoln Ross
+    birthdate: 1883
+    deathdate: 1947
+    gutenberg_agent_id: '35485'
+    url: http://www.gutenberg.org/2009/agents/35485
+    wikipedia: https://en.wikipedia.org/wiki/Lincoln_Colcord
+creator:
+  author:
+    agent_name: Rølvaag, O. E. (Ole Edvart)
+    aliases:
+    - Rölvaag, Ole Edvart
+    - Rolvaag, O. E. (Ole Edvart)
+    - Rølvaag, Ole Edvart
+    - Mørck, Paal
+    - Morck, Paal
+    birthdate: 1876
+    deathdate: 1931
+    gutenberg_agent_id: '58025'
+    url: http://www.gutenberg.org/2009/agents/58025
+    wikipedia: https://en.wikipedia.org/wiki/Ole_Edvart_R%C3%B8lvaag
+description: ''
+gutenberg_issued: '2025-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75491'
+language: en
+pgterms:marc904: https://archive.org/details/giantsinearth0000unse_e5f2
+pgterms:marc905: 20241227204513rlvaag
+pgterms:marc906: '1927'
+pgterms:marc907: US
+publication_note: '  $aUnited States :$bA. L. Burt Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian Americans -- Fiction'
+- !lcsh 'Norwegian fiction -- Translations into English'
+- !lcsh 'South Dakota -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Giants in the earth
+url: http://www.gutenberg.org/ebooks/75491
