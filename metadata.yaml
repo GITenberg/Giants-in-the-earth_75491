@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '35485'
     url: http://www.gutenberg.org/2009/agents/35485
     wikipedia: https://en.wikipedia.org/wiki/Lincoln_Colcord
+covers:
+- cover_type: archival
+  image_path: 75491-h/images/cover.jpg
 creator:
   author:
     agent_name: Rølvaag, O. E. (Ole Edvart)
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/58025
     wikipedia: https://en.wikipedia.org/wiki/Ole_Edvart_R%C3%B8lvaag
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75491#Giants-in-the-earth
 gutenberg_issued: '2025-03-01'
 gutenberg_type: Text
 identifiers:
